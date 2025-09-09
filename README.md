@@ -1,4 +1,4 @@
-# 💫 About Me
+# 😌About Me
 💻 Software Engineer  
 🤹🏿‍♂️ FrontEnd Developer  
 🏋🏿‍♂️ Fullstack  
